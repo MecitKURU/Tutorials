@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Tutorials/#4 Image Download With URL Tutorial/Scenes/CountdownScene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
