@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Tutorials/#5 Reset Settings Tutorial/Reset Settings.unity
+    guid: 7c76ec69c0a8a6249968d94931bac39e
   m_configObjects: {}
