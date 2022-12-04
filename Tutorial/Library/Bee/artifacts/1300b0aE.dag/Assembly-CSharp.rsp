@@ -361,6 +361,7 @@
 "Assets/Tutorials/#2 Json Tutorial/Scripts/MyData.cs"
 "Assets/Tutorials/#3 Countdown Tutorial/Scripts/Countdown.cs"
 "Assets/Tutorials/#4 Image Download With URL Tutorial/Scripts/ImageDownloadWithUrl.cs"
+"Assets/Tutorials/#6 PlayerPrefs Tutorial/Scripts/PlayerPrefsManager.cs"
 -langversion:9.0
 
 /deterministic
