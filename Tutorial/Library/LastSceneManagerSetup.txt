@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Tutorials/#5 Reset Settings Tutorial/Reset Settings.unity
+- path: Assets/Tutorials/#8 DoTween Tutorial/Scenes/DoTween Scene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
